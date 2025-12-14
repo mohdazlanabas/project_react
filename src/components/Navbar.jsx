@@ -1,4 +1,4 @@
-const items = ["Dashboard", "Data", "Form", "About"];
+const items = ["Dashboard", "Data", "Form", "About", "Guide"];
 
 export default function Navbar({ active, onNav }) {
   return (
