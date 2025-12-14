@@ -94,3 +94,4 @@ output/*.tsv
 sites/default/files/
 sites/default/settings.php
 sites/default/settings.local.php
+.vercel
